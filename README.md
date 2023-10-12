@@ -9,3 +9,7 @@ original Marathon image:
 original Nature image:
 
 ![Image Alt Text](./Nature.jpg)
+
+Final image:
+
+![Image Alt Text](./result.jpg)
